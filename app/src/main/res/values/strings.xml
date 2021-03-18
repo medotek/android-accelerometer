@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">accelerometer</string>
+    <string name="button">Button</string>
+    <string name="retour">retour</string>
+    <string name="Ex4">Button</string>
+    <string name="string_ex4">Ex4</string>
+    <string name="Ex5">Ex5</string>
+    <string name="app_title" />
+    <string name="shake_to_turn_on_off_the_flashlight">Shake to turn on/off the flashlight</string>
+</resources>
